@@ -31,8 +31,7 @@
 
 }
 .about_section .web{
-    position: relative;
-    left: 550px;
+    margin: 0 auto;
     width: 200px;
     height: 100px;
 }
@@ -75,8 +74,7 @@
         color: #99d930;
 }
 .end_section .article{
-    position: relative;
-        left: 550px;
+    margin: 0 auto;
         width: 200px;
         height: 100px;
 }
